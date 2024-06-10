@@ -4,3 +4,4 @@
 
 # salvando modificaçoes no git
 
+* Comando git push
